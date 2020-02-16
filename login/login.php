@@ -13,6 +13,6 @@
 	if($result->num_rows > 0){
 		echo "login successfully" ;
 	}else{
-		echo "user not found";
+		echo "User not found";
 	}
 ?>
